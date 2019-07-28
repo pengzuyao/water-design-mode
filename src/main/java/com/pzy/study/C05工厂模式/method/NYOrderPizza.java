@@ -1,11 +1,9 @@
 package com.pzy.study.C05工厂模式.method;
 
-import com.java.jikexueyuan.pizzastore.pizza.CheesePizza;
-import com.java.jikexueyuan.pizzastore.pizza.GreekPizza;
-import com.java.jikexueyuan.pizzastore.pizza.NYCheesePizza;
-import com.java.jikexueyuan.pizzastore.pizza.NYPepperPizza;
-import com.java.jikexueyuan.pizzastore.pizza.PepperPizza;
-import com.java.jikexueyuan.pizzastore.pizza.Pizza;
+
+import com.pzy.study.C05工厂模式.pizza.NYCheesePizza;
+import com.pzy.study.C05工厂模式.pizza.NYPepperPizza;
+import com.pzy.study.C05工厂模式.pizza.Pizza;
 
 public class NYOrderPizza extends OrderPizza {
 

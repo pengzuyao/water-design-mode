@@ -1,9 +1,8 @@
 package com.pzy.study.C06命令模式.command;
 
-import com.java.jikexueyuan.commandmode.Control;
-import com.java.jikexueyuan.commandmode.TraditionControl;
-import com.java.jikexueyuan.commandmode.device.Light;
-import com.java.jikexueyuan.commandmode.device.Stereo;
+
+import com.pzy.study.C06命令模式.device.Light;
+import com.pzy.study.C06命令模式.device.Stereo;
 
 public class ControlTest {
 

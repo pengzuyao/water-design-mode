@@ -1,8 +1,9 @@
 package com.pzy.study.C13代理模式;
 
-import java.util.ArrayList;
 
-import com.java.jikexueyuan.agentmode.candymachine.CandyMachine;
+import com.pzy.study.C13代理模式.candymachine.CandyMachine;
+
+import java.util.ArrayList;
 
 public class Monitor {
 	private ArrayList<CandyMachine> candyMachinelst;

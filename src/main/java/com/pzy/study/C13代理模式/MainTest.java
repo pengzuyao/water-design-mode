@@ -1,8 +1,9 @@
 package com.pzy.study.C13代理模式;
 
+import com.pzy.study.C13代理模式.candymachine.CandyMachine;
+
 import java.rmi.RemoteException;
 
-import com.java.jikexueyuan.agentmode.candymachine.CandyMachine;
 
 public class MainTest {
 	public static void main(String[] args) throws RemoteException {

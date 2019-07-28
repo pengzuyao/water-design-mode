@@ -1,11 +1,8 @@
 package com.pzy.study.C13代理模式.candymachinermi;
 
-import java.rmi.Naming;
-import java.rmi.registry.LocateRegistry;
+import com.pzy.study.C13代理模式.candymachine.CandyMachine;
 
-import com.java.jikexueyuan.agentmode.candymachine.CandyMachine;
-import com.java.jikexueyuan.agentmode.rmi.MyRemote;
-import com.java.jikexueyuan.agentmode.rmi.MyRemoteImpl;
+import java.rmi.Naming;
 
 public class RemoteMainTest {
 	public static void main(String[] args) {

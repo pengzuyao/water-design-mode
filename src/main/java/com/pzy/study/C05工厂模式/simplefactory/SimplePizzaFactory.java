@@ -1,9 +1,10 @@
 package com.pzy.study.C05工厂模式.simplefactory;
 
-import com.java.jikexueyuan.pizzastore.pizza.CheesePizza;
-import com.java.jikexueyuan.pizzastore.pizza.GreekPizza;
-import com.java.jikexueyuan.pizzastore.pizza.PepperPizza;
-import com.java.jikexueyuan.pizzastore.pizza.Pizza;
+
+import com.pzy.study.C05工厂模式.pizza.CheesePizza;
+import com.pzy.study.C05工厂模式.pizza.GreekPizza;
+import com.pzy.study.C05工厂模式.pizza.PepperPizza;
+import com.pzy.study.C05工厂模式.pizza.Pizza;
 
 public class SimplePizzaFactory {
 

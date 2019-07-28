@@ -3,7 +3,6 @@ package com.pzy.study.C13代理模式.candymachinermi;
 import java.rmi.RemoteException;
 import java.util.ArrayList;
 
-import com.java.jikexueyuan.agentmode.candymachine.CandyMachine;
 
 public class Monitor {
 

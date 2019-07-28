@@ -2,8 +2,6 @@ package com.pzy.study.C13代理模式.candymachinermi;
 
 import java.rmi.Naming;
 
-import com.java.jikexueyuan.agentmode.candymachine.CandyMachine;
-import com.java.jikexueyuan.agentmode.rmi.MyRemote;
 
 public class MainTest {
 

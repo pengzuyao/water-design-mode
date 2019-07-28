@@ -1,13 +1,11 @@
 package com.pzy.study.C05工厂模式.simplefactory;
 
+import com.pzy.study.C05工厂模式.pizza.Pizza;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-import com.java.jikexueyuan.pizzastore.pizza.CheesePizza;
-import com.java.jikexueyuan.pizzastore.pizza.GreekPizza;
-import com.java.jikexueyuan.pizzastore.pizza.PepperPizza;
-import com.java.jikexueyuan.pizzastore.pizza.Pizza;
 
 public class OrderPizza {
 	SimplePizzaFactory mSimplePizzaFactory;

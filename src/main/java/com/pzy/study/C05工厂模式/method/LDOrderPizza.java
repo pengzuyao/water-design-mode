@@ -1,11 +1,9 @@
 package com.pzy.study.C05工厂模式.method;
 
-import com.java.jikexueyuan.pizzastore.pizza.CheesePizza;
-import com.java.jikexueyuan.pizzastore.pizza.GreekPizza;
-import com.java.jikexueyuan.pizzastore.pizza.LDCheesePizza;
-import com.java.jikexueyuan.pizzastore.pizza.LDPepperPizza;
-import com.java.jikexueyuan.pizzastore.pizza.PepperPizza;
-import com.java.jikexueyuan.pizzastore.pizza.Pizza;
+
+import com.pzy.study.C05工厂模式.pizza.LDCheesePizza;
+import com.pzy.study.C05工厂模式.pizza.LDPepperPizza;
+import com.pzy.study.C05工厂模式.pizza.Pizza;
 
 public class LDOrderPizza extends OrderPizza {
 
